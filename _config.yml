@@ -1,6 +1,6 @@
 name: rfs express
 favicon: null
-layout_spectrum: 0.6783059891313314
+layout_spectrum: 0.49399
 typography_spectrum: 0.7543690220918506
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#c60000'
+    - '#91f3ff'
+    - '#0ca7c1'
+    - '#fffb5c'
+    - '#f2f100'
   brandStrength: 0.36977633764036
   lightness: 0.09275839733891189
   saturation: 0.5316935030277818
