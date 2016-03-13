@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rfs express]]></title>
+        <description><![CDATA[rfs express]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 08:51:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi, this is Robert Sheppard, owner and operator of rfs express, llc.  Rfs express is a hotshot service company that was founded in September of 2006 and is currently partnered with United Vision Logistics, located in Lafayette, LA.   Since our founding, I have traveled just under one million miles and have made over 2500 deliveries with no accidents or violations.</p>]]></description>
+            <link>undefinedhi-this-is-robert-sheppard-owner-and-operator-of-rfs-expre/index.html</link>
+            <guid isPermaLink="false">040359bb-ea73-439e-a33b-f5355ff950c2</guid>
+            <pubDate>Sun, 13 Mar 2016 08:50:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
